@@ -1,0 +1,19 @@
+{
+    "name": "kaze/agenda-electro",
+    "autoload": {
+        "psr-4": {
+            "Kaze\\AgendaElectro\\": "src/",
+            "Calendar\\": "src/Calendar",
+            "App\\": "src/App"
+        }
+    },
+    "authors": [
+        {
+            "name": "carmel-png",
+            "email": "tsopzejael@gmail.com"
+        }
+    ],
+
+
+    "require": {}
+}
